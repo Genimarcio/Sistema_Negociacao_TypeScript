@@ -1,0 +1,3 @@
+npm run server - iniciar o servidor na porta 3002
+
+npm run compile - Inicia o compilador TS
